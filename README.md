@@ -1,29 +1,85 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Awoke Worket
-=====================================================================================================================================
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" />
+  <h1>Hi, I'm Awoke Worket</h1>
+  <p><strong>Software Engineer | Full-Stack Developer | Problem Solver</strong></p>
+  
+  <p>
+    <a href="https://github.com/kaletsidik"><img src="https://img.badgesize.io/https://github.com/kaletsidik/kaletsidik/blob/main/README.md?label=Profile%20Status&color=0891b2&style=flat-square" /></a>
+    <img src="https://img.shields.io/badge/Maintained%3F-Yes-0891b2?style=flat-square" />
+    <img src="https://img.shields.io/badge/OpenToWork-Yes-0891b2?style=flat-square" />
+  </p>
+</div>
 
-Software Engineer| Full Stack Developer
----------------------------------------
+---
 
-* 🌍  I'm based in Ethiopia
-* ✉️  You can contact me at [awokeworket@gmail.com](mailto:awokeworket@gmail.com)
+### 🌍 About Me
+I am a passionate **Software Engineer** based in **Ethiopia** 🇪🇹. I specialize in building scalable web applications and high-performance backend systems. I love bridging the gap between elegant frontend design and robust backend architecture.
 
+- 🔭 I’m currently working on **Full-Stack Enterprise Solutions**
+- 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
+- ✉️ Reach me at: **[awokeworket@gmail.com](mailto:awokeworket@gmail.com)**
+- ⚡ Fun fact: I believe clean code is just as important as code that works.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><strong>Languages</strong></td>
+    <td align="center" width="25%"><strong>Frontend</strong></td>
+    <td align="center" width="25%"><strong>Backend/DB</strong></td>
+    <td align="center" width="25%"><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="top">
+      <img src="https://skillicons.dev/icons?i=python,ts,js,cs,cpp,php" />
+    </td>
+    <td align="top">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap" />
+    </td>
+    <td align="top">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,firebase,supabase" />
+    </td>
+    <td align="top">
+      <img src="https://skillicons.dev/icons?i=git,vscode,postman,docker,figma" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Performance Metrics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kaletsidik&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&border_radius=10" alt="GitHub Stats" height="180px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaletsidik&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact&border_radius=10" alt="Top Languages" height="180px" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaletsidik&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+</div>
+
+---
+
+### 🤝 Let's Connect
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a>
+  <a href="https://www.github.com/kaletsidik" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" />
+  </a>
+  <a href="https://kaletsidik.hashnode.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" />
+  </a>
+  <a href="mailto:awokeworket@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="32" />
+  </a>
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/kaletsidik" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://kaletsidik.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" title="Hashnode" /> </picture> </a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kaletsidik"><img src="https://github-readme-stats.vercel.app/api?username=kaletsidik&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kaletsidik's GitHub stats" /></a>
-
-<a href="http://www.github.com/kaletsidik"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kaletsidik&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/kaletsidik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaletsidik&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%98%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" width="100%" />
+</div>
