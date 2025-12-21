@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" />
-  <h1>Hi, I'm Awoke Worket</h1>
+  <h1>Hello, I'm Awoke Worket</h1>
   <p><strong>Software Engineer | Full-Stack Developer | Problem Solver</strong></p>
   
   <p>
@@ -13,7 +13,7 @@
 ---
 
 ### 🌍 About Me
-I am a passionate **Software Engineer** based in **Ethiopia** 🇪🇹. I specialize in building scalable web applications and high-performance backend systems. I love bridging the gap between elegant frontend design and robust backend architecture.
+I’m a **Full-Stack Developer** working with the Django,MySql, Express.js, React, Node.js... I enjoy building fast, responsive web applications and writing clean, efficient code that creates smooth user experiences. I also work with data using Python, especially Pandas and NumPy, and I like turning raw data into meaningful insights for better decision-making. I’m always learning new technologies. Right now, I’m exploring cloud computing and DevOps to improve how applications are built, deployed, and maintained. Fun facts: • I enjoy solving real-world problems with code • I like combining AI concepts with full-stack projects • I believe debugging is like solving a puzzle • I’m curious, consistent, and community-driven Let’s connect, collaborate, and build something awesome 🌍
 
 - 🔭 I’m currently working on **Full-Stack Enterprise Solutions**
 - 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
