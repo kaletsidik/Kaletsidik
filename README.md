@@ -13,7 +13,7 @@
 ---
 
 ### 🌍 About Me
-I’m a **Full-Stack Developer** working with the Django,MySql, Express.js, React, Node.js... I enjoy building fast, responsive web applications and writing clean, efficient code that creates smooth user experiences. I also work with data using Python, especially Pandas and NumPy, and I like turning raw data into meaningful insights for better decision-making. I’m always learning new technologies. Right now, I’m exploring cloud computing and DevOps to improve how applications are built, deployed, and maintained. Fun facts: • I enjoy solving real-world problems with code • I like combining AI concepts with full-stack projects • I believe debugging is like solving a puzzle • I’m curious, consistent, and community-driven Let’s connect, collaborate, and build something awesome 🌍
+  I’m a **Full-Stack Developer** working with the Django,MySql, Express.js, React, Node.js... I enjoy building fast, responsive web applications and writing clean, efficient code that creates smooth user experiences. I also work with data using Python, especially Pandas and NumPy, and I like turning raw data into meaningful insights for better decision-making. I’m always learning new technologies. Right now, I’m exploring cloud computing and DevOps to improve how applications are built, deployed, and maintained. Fun facts: • I enjoy solving real-world problems with code • I like combining AI concepts with full-stack projects • I believe debugging is like solving a puzzle • I’m curious, consistent, and community-driven Let’s connect, collaborate, and build something awesome.
 
 - 🔭 I’m currently working on **Full-Stack Enterprise Solutions**
 - 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
@@ -36,7 +36,7 @@ I’m a **Full-Stack Developer** working with the Django,MySql, Express.js, Reac
       <img src="https://skillicons.dev/icons?i=python,ts,js,cs,cpp,php" />
     </td>
     <td align="top">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,vue,angular,tailwind,bootstrap" />
     </td>
     <td align="top">
       <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,firebase,supabase" />
