@@ -38,6 +38,12 @@
     <td align="top">
       <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,vue,angular,tailwind,bootstrap" />
     </td>
+      <td align="top">
+      <img src="https://skillicons.dev/icons?i=python,ts,js,cs,cpp,php" />
+    </td>
+    <td align="top">
+      <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,vue,angular,tailwind,bootstrap" />
+    </td>
     <td align="top">
       <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,firebase,supabase" />
     </td>
