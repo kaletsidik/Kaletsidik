@@ -13,10 +13,12 @@
 ---
 
 ### 🌍 About Me
-  I’m a **Full-Stack Developer** working with the Django,MySql, Express.js, React, Node.js... I enjoy building fast, responsive web applications and writing clean, efficient code that creates smooth user experiences. I also work with data using Python, especially Pandas and NumPy, and I like turning raw data into meaningful insights for better decision-making. I’m always learning new technologies. Right now, I’m exploring cloud computing and DevOps to improve how applications are built, deployed, and maintained. Fun facts: • I enjoy solving real-world problems with code • I like combining AI concepts with full-stack projects • I believe debugging is like solving a puzzle • I’m curious, consistent, and community-driven Let’s connect, collaborate, and build something awesome.
+ ### 🌍 About Me
+I am an **Information Systems (IS) student at Addis Ababa University (AAU)**, specializing in Full-Stack Web Development and digital storytelling. I combine the analytical nature of IS with the creative power of web design and video editing to build applications that are as functional as they are engaging.
 
-- 🔭 I’m currently working on **Full-Stack Enterprise Solutions**
-- 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
+- 🎓 **Education:** Information Systems @ Addis Ababa University
+- 💻 **Web Dev:** Expert in Django, PHP, and React.js
+- 🎯 **Goal:** Building modern tech solutions for the Ethiopian digital ecosystem.
 - ✉️ Reach me at: **[awokeworket@gmail.com](mailto:awokeworket@gmail.com)**
 - ⚡ Fun fact: I believe clean code is just as important as code that works.
 
