@@ -13,7 +13,6 @@
 ---
 
 ### 🌍 About Me
- ### 🌍 About Me
 I am an **Information Systems (IS) student at Addis Ababa University (AAU)**, specializing in Full-Stack Web Development and digital storytelling. I combine the analytical nature of IS with the creative power of web design and video editing to build applications that are as functional as they are engaging.
 
 - 🎓 **Education:** Information Systems @ Addis Ababa University
