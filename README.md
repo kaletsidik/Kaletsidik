@@ -15,11 +15,11 @@
 ### 🌍 About Me
 I am an **Information Systems (IS) student at Addis Ababa University (AAU)**, specializing in Full-Stack Web Development and digital storytelling. I combine the analytical nature of IS with the creative power of web design and video editing to build applications that are as functional as they are engaging.
 
-- 🎓 **Education:** Information Systems @ Addis Ababa University
-- 💻 **Web Dev:** Expert in Django, PHP, and React.js
-- 🎯 **Goal:** Building modern tech solutions for the Ethiopian digital ecosystem.
-- ✉️ Reach me at: **[awokeworket@gmail.com](mailto:awokeworket@gmail.com)**
-- ⚡ Fun fact: I believe clean code is just as important as code that works.
+- 🎓 **Education:** Information Systems @ Addis Ababa University  
+- 💻 **Web Dev:** Expert in Django, PHP, and React.js  
+- 🎯 **Goal:** Building modern tech solutions for the Ethiopian digital ecosystem.  
+- ✉️ Reach me at: **[awokeworket@gmail.com](mailto:awokeworket@gmail.com)**  
+- ⚡ Fun fact: I believe clean code is just as important as code that works.  
 
 ---
 
@@ -33,22 +33,16 @@ I am an **Information Systems (IS) student at Addis Ababa University (AAU)**, sp
     <td align="center" width="25%"><strong>Tools</strong></td>
   </tr>
   <tr>
-    <td align="top">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=python,ts,js,cs,cpp,php" />
     </td>
-    <td align="top">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,vue,angular,tailwind,bootstrap" />
     </td>
-      <td align="top">
-      <img src="https://skillicons.dev/icons?i=python,ts,js,cs,cpp,php" />
-    </td>
-    <td align="top">
-      <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,vue,angular,tailwind,bootstrap" />
-    </td>
-    <td align="top">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,firebase,supabase" />
     </td>
-    <td align="top">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=git,vscode,postman,docker,figma" />
     </td>
   </tr>
