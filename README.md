@@ -4,22 +4,25 @@
   <p><strong>Software Engineer | Full-Stack Developer | Problem Solver</strong></p>
   
   <p>
-    <a href="https://github.com/kaletsidik"><img src="https://img.badgesize.io/https://github.com/kaletsidik/kaletsidik/blob/main/README.md?label=Profile%20Status&color=0891b2&style=flat-square" /></a>
-    <img src="https://img.shields.io/badge/Maintained%3F-Yes-0891b2?style=flat-square" />
-    <img src="https://img.shields.io/badge/OpenToWork-Yes-0891b2?style=flat-square" />
+    <a href="https://github.com/kaletsidik">
+      <img src="https://img.shields.io/badge/Profile-Active-0891b2?style=flat-square"/>
+    </a>
+    <img src="https://img.shields.io/badge/Maintained-Yes-0891b2?style=flat-square"/>
+    <img src="https://img.shields.io/badge/OpenToWork-Yes-0891b2?style=flat-square"/>
   </p>
 </div>
 
 ---
 
 ### 🌍 About Me
-I am an **Information Systems (IS) student at Addis Ababa University (AAU)**, specializing in Full-Stack Web Development and digital storytelling. I combine the analytical nature of IS with the creative power of web design and video editing to build applications that are as functional as they are engaging.
+I am an **Information Systems (IS) student at Addis Ababa University (AAU)**, specializing in **Full-Stack Web Development**. I combine analytical problem solving with modern web technologies to build scalable and useful digital solutions.
 
 - 🎓 **Education:** Information Systems @ Addis Ababa University  
-- 💻 **Web Dev:** Expert in Django, PHP, and React.js  
-- 🎯 **Goal:** Building modern tech solutions for the Ethiopian digital ecosystem.  
+- 💻 **Main Language:** **Python**  
+- ⚙️ **Web Dev:** Django, Node.js, React.js  
+- 🎯 **Goal:** Building modern tech solutions for the Ethiopian digital ecosystem  
 - ✉️ Reach me at: **[awokeworket@gmail.com](mailto:awokeworket@gmail.com)**  
-- ⚡ Fun fact: I believe clean code is just as important as code that works.  
+- ⚡ Fun fact: I believe clean code is just as important as code that works.
 
 ---
 
@@ -51,24 +54,33 @@ I am an **Information Systems (IS) student at Addis Ababa University (AAU)**, sp
 ---
 
 ### 📊 Performance Metrics
+
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kaletsidik&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&border_radius=10" alt="GitHub Stats" height="180px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaletsidik&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact&border_radius=10" alt="Top Languages" height="180px" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaletsidik&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kaletsidik&show_icons=true&count_private=true&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="180"/>
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaletsidik&langs_count=8&layout=compact&hide=html,css&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="180"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=kaletsidik&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&hide_border=true" width="100%" />
+
 </div>
 
 ---
 
 ### 🤝 Let's Connect
+
 <p align="left">
   <a href="https://www.github.com/kaletsidik" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" />
